@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BayB33
+- 👋 Hi, I’m Tom. I'm French.
 - 👀 I’m interested in learning web development and programming.
-- 🌱 I’m currently learning generalities about the web and coding. I've also started to code in JavaScript (in addition with HTML/CSS).
+- 🌱 I’m currently learning generalities about the web and coding. I've started to code in JavaScript and now I'm learning React.
 - 💞️ I’m looking to collaborate on beginners projects to practice what I'm learning, to see how to work on a project from scratch, to see how to work collaboratively 
 and also to get to know developpers.
 - 📫 How to reach me : thomasraymond.d@gmail.com
