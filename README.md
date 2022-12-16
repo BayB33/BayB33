@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Tom. I'm French.
 - 👀 I’m training in web development and programming.
 - 🌱 I've started to code in HTML, CSS and JavaScript and program in C first and then transitioned to Python and Flask.
-- 💞️ I’m looking to collaborate on beginners projects to practice what I'm learning, to see how to work on a project from scratch, to see how to work collaboratively 
-and also to get to know developpers.
+- 💞️ I’m looking for :
+        - project collaboration to broaden my experience and meet other developers/programmers,
+        - a job as a full-stack developer.
 - 📫 How to reach me : thomasraymond.d@gmail.com
 
 <!---
